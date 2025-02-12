@@ -1,4 +1,4 @@
-package EXO2;
+/*package EXO2;
 
 public class Main {
 
@@ -8,3 +8,4 @@ public class Main {
 
     }
 }
+*/

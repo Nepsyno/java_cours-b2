@@ -1,4 +1,4 @@
-package EXO3;
+/*package EXO3;
 
 public class Voiture implements Transport {
     @Override
@@ -6,3 +6,4 @@ public class Voiture implements Transport {
         System.out.println("La voiture roule vite !");
     }
 }
+*/
